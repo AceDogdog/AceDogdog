@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently studying **Statistics and Data Science** (Joint Degree).
-* 📈 Deeply interested in **Statistical Learning, XGBoost, Random Forest**, and predictive modeling.
-* ⛏️ Experienced in applying data science to geological and mineral resource analysis.
-* 🎯 Actively preparing for graduate studies and seeking opportunities to solve complex data problems.
+* 🎓 目前就读于 **统计学与数据科学** 专业（联合培养学位）。
+* 📈 对 **统计学习、XGBoost、随机森林** 以及预测建模有着浓厚的兴趣。
+* ⛏️ 拥有将数据科学应用于 **地质和矿产资源分析** 的实习经验。
+* 🎯 正在积极准备研究生申请，寻求利用数据解决复杂问题的机会。
 
 ---
 
@@ -21,9 +21,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
