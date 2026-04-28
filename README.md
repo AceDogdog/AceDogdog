@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Zongbo Li 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AceDogdog&color=2E86C1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 <h3 align="center">A Data Science & Statistics student passionate about Machine Learning and Mining Analytics.</h3>
 
 <p align="center">
@@ -104,6 +107,12 @@
 ### 📊 GitHub Stats & Visualizations
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AceDogdog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AceDogdog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 <br>
@@ -113,6 +122,10 @@
 <br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AceDogdog&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AceDogdog&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
 <hr>
