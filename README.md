@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 目前就读于 **统计学与数据科学** 专业（联合培养学位）。
-* 📈 对 **统计学习、XGBoost、随机森林** 以及预测建模有着浓厚的兴趣。
-* ⛏️ 拥有将数据科学应用于 **地质和矿产资源分析** 的实习经验。
-* 🎯 正在积极准备研究生申请，寻求利用数据解决复杂问题的机会。
+* 🎓 Currently studying **Statistics and Data Science** (Joint Degree).
+* 📈 Deeply interested in **Statistical Learning, XGBoost, Random Forest**, and predictive modeling.
+* ⛏️ Experienced in applying data science to geological and mineral resource analysis.
+* 🎯 Actively preparing for graduate studies and seeking opportunities to solve complex data problems.
 
 ---
 
